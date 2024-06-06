@@ -5,3 +5,4 @@ Day 49 - Automated Job Applications with Selenium
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (05/06/2024); update tomorrow.
+    Finished practice (06/06/2024); updated.
